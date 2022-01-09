@@ -1,0 +1,14 @@
+sudo usermod -aG docker ubuntu
+
+C4DJD-894F2-76P84-47HVJ-PJ8BJ
+
+
+
+
+username : virupaksha	
+
+Password : Fbcpl@123
+
+Full name :virupaksha patil
+
+Mail id : viru350@gmail.com
